@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "ES2015",
+        "target": "ES6",
+        "strict": true,
+        //报错不执行
+        "noEmitOnError": true
+    }
+}
